@@ -1,0 +1,6 @@
+{
+"title" : "MelonWars: RTS",
+"type" : "tool",
+"tags" : "fun",
+"ignore" : ["*.psd", "*.vcproj", "*.svn*"]
+}
